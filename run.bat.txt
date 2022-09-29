@@ -1,0 +1,2 @@
+cd E:\PragatiWorkSpace\eBankingMavenProject
+mvn clean install
